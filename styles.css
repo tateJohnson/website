@@ -1,0 +1,188 @@
+/* YOUR STYLES HERE */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#menu {
+  padding: 5px 10px;
+  display: flex;
+  align-items: center;
+}
+
+.menu-item {
+  font-size: 14px;
+  color: black;
+  margin: 0px 10px;
+  text-decoration: none;
+}
+
+.menu-item:hover {
+  text-decoration: underline;
+}
+
+
+#profile-pic {
+  height: 32px;
+  width: 32px;
+  border-radius: 16px;
+}
+
+#profile-pic:hover {
+  box-shadow: 0px 0px 5px #C2C2C2
+}
+
+#store-link {
+  margin-right: auto;
+}
+
+
+#search {
+  margin-top: 120px;
+  text-align: center;
+}
+
+#main-logo {
+  width: 272px;
+}
+
+#search-bar {
+  height: 34px;
+  font-size: 17px;
+  border-radius: 17px;
+  border: 1px solid #C2C2C2;
+  width: 90%;
+  max-width: 500px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 30px;
+}
+
+#search-bar:hover,
+#search-bar:focus {
+  box-shadow: 0px 0px 5px #C2C2C2
+}
+
+#search-buttons {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.search-button {
+  margin: 8px;
+  padding: 8px 15px;
+  cursor: pointer;
+
+  background-color:#f8f9fa ;
+  border: 1px solid #4b4b4b;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.search-button:hover {
+  box-shadow: 0px 0px 5px #C2C2C2
+}
+
+
+#mySidebar {
+  background-color: #C2C2C2;
+
+}
+
+.w3-top {
+  background-color: #C2C2C2;
+}
+
+.name {
+  color: #7c80e3;
+  font-family: "GothamBoldItalic", sans-serif;
+  font-style: italic;
+  font-weight: 1000;
+  text-align: center;
+  font-size: 5em;
+  line-height: 0.85;
+  letter-spacing: -1px;
+}
+
+#parra {
+  max-width: 60%;
+  padding-left: 20%;
+}
+
+.para {
+  font-size: 20px;
+  color: white;
+  font-style: normal;
+  text-align: left;
+  font-weight: 200;
+  line-height: 150%;
+}
+
+#byby {
+  bottom: 20px;
+  left: 31%;
+  margin: 0px auto 0px 50%;
+  position: fixed;
+  }
+
+#bybi {
+  bottom: 20px;
+  left: -40%;
+  margin: 0px auto 0px 50%;
+  position: fixed;
+}
+
+.d {
+  color: #7c80e3;
+  font-size: 50px;
+  text-decoration: none;
+  outline: black;
+
+}
+
+.doc{
+width: 800px;
+height: 850px;
+}
+
+.d:hover {
+  padding:3px 4px 3px 6px;
+}
+
+#workpls {
+  margin-left: 75%;
+
+}
+
+.ba {
+  color: #7c80e3;
+  font-size: xx-large;
+  font-style: normal;
+}
+
+.ba:hover {
+  font-style: italic;
+}
+
+
+
+#dd {
+  margin-left: 50%;
+}
+.heheh {
+  font-size: xx-large;
+  padding: 10px;
+}
+
+#bioshock {
+  width: 12%;
+}
+
+#ff {
+  width: 40%;
+}
+
+.ahh {
+  font-size: 30px;
+}
